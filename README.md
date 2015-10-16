@@ -5,6 +5,9 @@ Based off of the work by [Jonathan McCabe](http://www.jonathanmccabe.com/Cyclic_
 and the implementation at [Softology](https://softologyblog.wordpress.com/2011/07/05/multi-scale-turing-patterns/).
 I have added the features of Color, Symmetry Degree, Image Seeding, and Compound/Multi-Scale Synthesis.
 
+#Requirements
+This library requires SFML 2.0
+
 # Use
 The main.cpp file contains the variables
 ```
