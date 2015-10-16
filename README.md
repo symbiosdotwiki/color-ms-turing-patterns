@@ -1,3 +1,4 @@
+![Example 1](/examples/example1.png?raw=true "Example")
 # color-ms-turing-patterns
 C++ library for creating RGB Multi-Scale Turing Patterns
 Based off of the work by [Jonathan McCabe](http://www.jonathanmccabe.com/Cyclic_Symmetric_Multi-Scale_Turing_Patterns.pdf)
