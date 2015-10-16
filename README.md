@@ -96,3 +96,7 @@ int TYPE = 2;
 #TODO
 1. I would like to reconfigure the app to use floats or ints rather than 3 doubles for the RBG data.
 3. Fix image seeding height/width
+
+#Video
+Here is an example of a video using the save-out feature.
+[![Video example](http://img.youtube.com/vi/zDfxuOat6EU/0.jpg)](http://www.youtube.com/watch?v=zDfxuOat6EU)
